@@ -59,33 +59,50 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 
-## Output:
+### Output:
 df.head()
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/8475ec01-1fb9-4cc3-a128-496c88362dfe)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/d7cb026f-f5cd-4c69-90b8-770a826f3630)
+
 
 df.tail()
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/4d894140-81d1-4077-bd02-8d70af4a8ad0)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/42b1ba7c-f813-4531-bf95-20c6bb9f04e1)
+
 
 Array values of X
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/863280ad-fec5-4120-bb07-2c63347e3fa4)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/5d59a8bd-d2bd-4eb8-adfe-ce1e310451af)
+
 
 Array values of Y
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/c41fb50b-e4d9-413e-b3fd-79feff48dd0c)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/63f01cde-4665-4e6f-ad42-092b2f288478)
+
 
 Values of Y prediction
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/21ffa343-1b0f-4a83-8a14-1f4c0372ce35)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/583bf09b-f2c6-4cec-9e21-19e51cb8c0db)
+
 
 Array values of Y test
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/dc24f8b5-fefe-499d-8fc6-3bed892343cd)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/17c17edc-8be7-405e-8326-9f498e4d2058)
+
 
 Training Set Data
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/b3776d9f-f2b3-4fed-a718-8d87809b9504)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/86415740-0504-418e-9e89-ede39cb56fca)
+
 
 Test Set Data
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/577e6f2c-42d3-4941-a394-f1b81293bee2)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/aa100f7c-c55a-40dd-9e44-599d3ce1351c)
+
 
 Values of MSE, MAE and RMSE
-![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/e97fcfd6-0185-48e0-8f51-5a95154d334a)
+
+![image](https://github.com/23004426/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144979327/d2833dcd-42ab-4d5a-a625-caa7f692b9b7)
 
 
 
